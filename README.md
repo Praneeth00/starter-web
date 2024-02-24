@@ -20,6 +20,7 @@ And again and again
 ##How To Contribute
 <<<<<<< HEAD
 
+All rights reserved
 Copyright training
 >>>>>>> 17764de (Adding copyright README)
 =======
