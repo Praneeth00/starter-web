@@ -18,6 +18,11 @@ And again and again
 ##How To Contribute
 =======
 ##How To Contribute
+<<<<<<< HEAD
 
 Copyright training
 >>>>>>> 17764de (Adding copyright README)
+=======
+Please fork this
+Copyright training
+>>>>>>> 08ec424 (Adding instructions)
