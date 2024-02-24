@@ -1,6 +1,6 @@
 #Starter Web Project
 
-This is a simple website to showcase Git and GitHub together
+This is a simple website to showcase Git and GitHub together. Adding a line for rebasing
 
 ##Introduction
 
