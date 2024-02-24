@@ -13,5 +13,11 @@ And some again
 ##Deployment
 
 And again and again
+<<<<<<< HEAD
 
 ##How To Contribute
+=======
+##How To Contribute
+
+Copyright training
+>>>>>>> 17764de (Adding copyright README)
